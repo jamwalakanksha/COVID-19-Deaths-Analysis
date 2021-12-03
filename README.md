@@ -8,4 +8,17 @@ Dataset Description
 
 Source : https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Place-of-Death-and-/4va6-ph5s
 
+# Team Members :
+
+Akash Sharma	
+
+Khirabdhi Tanaya Acharaya
+
+Akanksha Jamwal
+
+Kavya Vijay
+
+Kanishka Singh
+
+
 
